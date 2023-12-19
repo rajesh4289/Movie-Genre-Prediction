@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #15F4EE;
+}
+
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#fileInput {
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px;
+    cursor: pointer;
+    /* background-color: #15F4EE; */
+}
